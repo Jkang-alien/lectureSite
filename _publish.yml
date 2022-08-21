@@ -2,3 +2,6 @@
   quarto-pub:
     - id: dfb5cb79-05e6-4c21-a778-fab7f736b2eb
       url: 'https://quartopub.com/sites/jkang/lecture-repository'
+  netlify:
+    - id: 3878432a-9543-4d80-b6b1-f4220e9ff401
+      url: 'https://tubular-crostata-478e7a.netlify.app'
