@@ -1,0 +1,23 @@
+---
+title: Learning Objectives and References for Elective Course Students
+---
+
+* Explain histologic classification of endometrial cancer
+* Explain molecular classification of endometrial cancer
+  + https://www.annalsofoncology.org/article/S0923-7534(22)01207-8/fulltext
+* Explain microsatellite instability test
+  + Microsatellite instability
+    - https://www.sciencedirect.com/science/article/pii/S0923753419312694
+  + Peptide nucleic acid probe (PNA)-mediated real-time PCR-based method
+    - https://bmccancer.biomedcentral.com/articles/10.1186/s12885-018-5127-6
+* Explain mismatch repair deficiency test
+  + Immunohistochemistry
+    - https://www.sciencedirect.com/science/article/pii/S0923753419312694
+  + Interpretation
+    - https://www.thebagp.org/wp-content/uploads/download-manager-files/1593411202wpdm_BAGP%20MMR%20IHC%20Interpretation%20June%202020.pdf
+  + Lynch syndrome
+* Explain variant pathogenesis 
+  + NM_000179.3(MSH6):c.2314C>T (p.Arg772Trp)
+  + https://gnomad.broadinstitute.org/
+  + https://www.ncbi.nlm.nih.gov/clinvar/
+  + https://www.nature.com/articles/gim201530

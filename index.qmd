@@ -1,11 +1,5 @@
 ---
-title: "lectureSite"
+title: "Lecture repository of Seoul St. Mary hospital GYN and Breast Pathology"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+![](images/1816C15C-D535-4A22-9C1B-182CA523370E_1_201_a.jpeg)

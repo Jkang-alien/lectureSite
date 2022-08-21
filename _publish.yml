@@ -1,0 +1,6 @@
+- source: project
+  quarto-pub:
+    - id: 100a6153-d641-4640-9bc0-aabc42ae1831
+      url: 'https://quartopub.com/sites/jkang/lecture-repository'
+    - id: fe17f013-fd4f-4508-91e9-7538fbffb364
+      url: 'https://quartopub.com/sites/jkang/example'
