@@ -1,0 +1,105 @@
+---
+title: "Cancer, Pathogenesis, Classification and Test for Treatment"
+author: "Jun Kang"
+format: 
+  revealjs:
+    theme: solarized
+---
+
+![](https://media.springernature.com/w300/springer-static/image/art%253A10.1038%252Fnature.2017.21681/MediaObjects/41586_2017_Article_BFnature201721681_Figb_HTML.jpg?as=webp)
+
+---
+
+![](images/41586_2017_Article_BFnature21700_Fig2_HTML.webp)
+
+------------------------------------------------------------------------
+
+![](images/41586_2017_Article_BFnature21700_Fig1_HTML.webp)
+
+------------------------------------------------------------------------
+
+![](https://pbs.twimg.com/media/C7is8JZWkAA_eaI?format=jpg&name=small)
+
+------------------------------------------------------------------------
+
+### The stem cell niche hypothesis
+
+![](https://onlinelibrary.wiley.com/cms/asset/48d60689-8c78-407d-9166-5eafe916af46/mfig002.jpg)
+
+::: {.notes}
+The stem cell niche hypothesis. (a) G6PD-stained frozen section of colonic mucosa from a CH3 mouse 14 days after a single dose of DMH showing a single wholly mutated crypt in which all cells have been replaced by a mutant phenotype (from ref.25, with permission). (b) Diagrammatic representation of the stem cell niche. An active multipotent stem cell (SC) produces a daughter cell (Co) that gives rise to enterocytic lineages, and another which generates goblet, Paneth, and enteroendocrine cells (although it is not known whether all derive from Mo). GLP-2 produced by a subset of enteroendocrine cells stimulates proliferation of the Co daughter via an interaction with enteric nervous system neurons that express the GLP-2 receptor (GLP-2R). The nature of the neuronal signal that affects Co is unknown (from ref.100 with permission)
+:::
+
+------------------------------------------------------------------------
+
+### Monoclonal origin of colonic crypts in an XO/XY patient
+
+![](https://onlinelibrary.wiley.com/cms/asset/3f3d29c5-c34e-4481-a6d6-985addee4a69/mfig004.jpg)
+
+::: {.notes}
+Monoclonal origin of colonic crypts in an XO/XY patient. Normal colonic mucosa in an XO/XY mosaic individual stained by in situ hybridization for a Y-chromosome-specific probe showing an XO crypt (central) surrounded by two XY crypts (courtesy of M. Novelli)
+:::
+
+## Robbins definition
+
+> A neoplasm is defined as a genetic disorder of cell growth that is triggered by acquired or less commonly inherited mutations affecting a single cell and its clonal progeny.
+
+## DNA methylation-based classification of central nervous system tumours
+
+![](https://media.springernature.com/full/springer-static/image/art%253A10.1038%252Fnature26000/MediaObjects/41586_2018_Article_BFnature26000_Fig1_HTML.jpg?as=webp)
+
+::: aside
+Nature 555, 469--474 (2018). https://doi.org/10.1038/nature26000
+:::
+
+## Sarcoma classification by DNA methylation profiling
+
+![](https://media.springernature.com/full/springer-static/image/art%253A10.1038%252Fs41467-020-20603-4/MediaObjects/41467_2020_20603_Fig1_HTML.png?as=webp)
+
+::: aside
+Nat Commun 12, 498 (2021). https://doi.org/10.1038/s41467-020-20603-4\]
+:::
+
+------------------------------------------------------------------------
+
+![](https://media.springernature.com/full/springer-static/image/art%253A10.1038%252Fnature12113/MediaObjects/41586_2013_Article_BFnature12113_Fig2_HTML.jpg?as=webp)
+
+::: aside
+TCGA 2013 nature
+:::
+
+------------------------------------------------------------------------
+
+![](https://media.springernature.com/full/springer-static/image/art%253A10.1186%252Fs12885-018-5127-6/MediaObjects/12885_2018_5127_Fig3_HTML.png?as=webp)
+
+------------------------------------------------------------------------
+
+![](https://genome.cshlp.org/content/11/4/609/F1.large.jpg)
+
+------------------------------------------------------------------------
+
+![](https://media.springernature.com/full/springer-static/image/art%253A10.1038%252Fs41467-017-00962-1/MediaObjects/41467_2017_962_Fig1_HTML.jpg?as=webp)
+
+::: aside
+Nature Communications volume 8, Article number: 1093 (2017)
+:::
+
+------------------------------------------------------------------------
+
+![](https://media.springernature.com/full/springer-static/image/art%253A10.1038%252Fs41467-017-00962-1/MediaObjects/41467_2017_962_Fig2_HTML.jpg?as=webp)
+
+------------------------------------------------------------------------
+
+![](https://media.springernature.com/full/springer-static/image/art%253A10.1038%252Fs41467-017-00962-1/MediaObjects/41467_2017_962_Fig3_HTML.jpg?as=webp)
+
+------------------------------------------------------------------------
+
+![](https://media.springernature.com/full/springer-static/image/art%253A10.1038%252Fs41467-017-00962-1/MediaObjects/41467_2017_962_Fig4_HTML.jpg?as=webp)
+
+------------------------------------------------------------------------
+
+### SOLO2/ENGOT-Ov21 trial
+
+::: aside
+Lancet Oncol 2017; 18(9): 1274--1284.
+:::
