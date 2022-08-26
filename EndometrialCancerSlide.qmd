@@ -3,18 +3,20 @@ title: "Cancer, Pathogenesis, Classification and Test for Treatment"
 author: "Jun Kang"
 format: 
   revealjs:
-    theme: solarized
+    self-contained: true
+    logo: images/cmcSymbol.gif
+    theme: default
 ---
 
 ![](https://media.springernature.com/w300/springer-static/image/art%253A10.1038%252Fnature.2017.21681/MediaObjects/41586_2017_Article_BFnature201721681_Figb_HTML.jpg?as=webp)
 
----
+------------------------------------------------------------------------
 
 ![](images/41586_2017_Article_BFnature21700_Fig2_HTML.webp)
 
 ------------------------------------------------------------------------
 
-![](images/41586_2017_Article_BFnature21700_Fig1_HTML.webp)
+![](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature21700/MediaObjects/41586_2017_Article_BFnature21700_Fig1_HTML.jpg?as=webp)
 
 ------------------------------------------------------------------------
 
@@ -26,7 +28,7 @@ format:
 
 ![](https://onlinelibrary.wiley.com/cms/asset/48d60689-8c78-407d-9166-5eafe916af46/mfig002.jpg)
 
-::: {.notes}
+::: notes
 The stem cell niche hypothesis. (a) G6PD-stained frozen section of colonic mucosa from a CH3 mouse 14 days after a single dose of DMH showing a single wholly mutated crypt in which all cells have been replaced by a mutant phenotype (from ref.25, with permission). (b) Diagrammatic representation of the stem cell niche. An active multipotent stem cell (SC) produces a daughter cell (Co) that gives rise to enterocytic lineages, and another which generates goblet, Paneth, and enteroendocrine cells (although it is not known whether all derive from Mo). GLP-2 produced by a subset of enteroendocrine cells stimulates proliferation of the Co daughter via an interaction with enteric nervous system neurons that express the GLP-2 receptor (GLP-2R). The nature of the neuronal signal that affects Co is unknown (from ref.100 with permission)
 :::
 
@@ -36,7 +38,7 @@ The stem cell niche hypothesis. (a) G6PD-stained frozen section of colonic mucos
 
 ![](https://onlinelibrary.wiley.com/cms/asset/3f3d29c5-c34e-4481-a6d6-985addee4a69/mfig004.jpg)
 
-::: {.notes}
+::: notes
 Monoclonal origin of colonic crypts in an XO/XY patient. Normal colonic mucosa in an XO/XY mosaic individual stained by in situ hybridization for a Y-chromosome-specific probe showing an XO crypt (central) surrounded by two XY crypts (courtesy of M. Novelli)
 :::
 
