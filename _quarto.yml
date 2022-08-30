@@ -9,10 +9,6 @@ website:
         text: Home
       - href: oby.qmd
         text: OBY
-      - href: EndometrialCancerSlide.qmd
-        text: Lecture slide
-      - href: rep.qmd
-        text: Cytology slide
 
 format:
   html:
