@@ -6,6 +6,8 @@ title: Learning Objectives and References for Elective Course Students
 -   Explain molecular classification of endometrial cancer
     -   <https://www.annalsofoncology.org/article/S0923-7534(22)01207-8/fulltext>
 -   Explain microsatellite instability test
+    -   CAP guideline
+        -   <https://meridian.allenpress.com/aplm/article/doi/10.5858/arpa.2021-0632-CP/484203/Mismatch-Repair-and-Microsatellite-Instability>
     -   Microsatellite instability
         -   <https://www.sciencedirect.com/science/article/pii/S0923753419312694>
     -   Peptide nucleic acid probe (PNA)-mediated real-time PCR-based method
