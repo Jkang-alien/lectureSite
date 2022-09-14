@@ -16,7 +16,7 @@ format:
 
 ------------------------------------------------------------------------
 
-![](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature21700/MediaObjects/41586_2017_Article_BFnature21700_Fig1_HTML.jpg?as=webp)
+![](https://media.springernature.com/full/springer-static/image/art%253A10.1038%252Fnature21700/MediaObjects/41586_2017_Article_BFnature21700_Fig1_HTML.jpg?as=webp)
 
 ------------------------------------------------------------------------
 

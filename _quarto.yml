@@ -9,6 +9,8 @@ website:
         text: Home
       - href: oby.qmd
         text: OBY
+      - href: cytology.qmd
+        text: Cytology
 
 format:
   html:
