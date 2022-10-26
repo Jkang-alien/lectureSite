@@ -3,6 +3,7 @@ project:
   resources: 
     - "*.pdf"
     - "*.doc"
+    - "obyLecture.html"
 
 website:
   title: "Lecture Repository"
