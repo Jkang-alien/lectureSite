@@ -3,4 +3,5 @@ title: "CPC"
 editor: visual
 ---
 
-[CPC](https://tubular-crostata-478e7a.netlify.app/resources/obyLecture.html)
+[Protocol](https://tubular-crostata-478e7a.netlify.app/resources/CPC_1718.doc)  
+[Pahotlogy](https://tubular-crostata-478e7a.netlify.app/resources/obyLecture.html)
