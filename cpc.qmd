@@ -1,0 +1,6 @@
+---
+title: "CPC"
+editor: visual
+---
+
+[CPC](https://tubular-crostata-478e7a.netlify.app/resources/obyLecture.html)

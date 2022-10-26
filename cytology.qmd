@@ -3,4 +3,4 @@ title: "Cytology"
 editor: visual
 ---
 
-![Cytology](https://tubular-crostata-478e7a.netlify.app/CytologyStudent.pdf)
+[Cytology](https://tubular-crostata-478e7a.netlify.app/resources/CytologyStudent.pdf)
