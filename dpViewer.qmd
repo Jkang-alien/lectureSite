@@ -1,5 +1,5 @@
 ---
-title: "dpViewer"
+title: "Pathology Viewer"
 editor: visual
 ---
 
