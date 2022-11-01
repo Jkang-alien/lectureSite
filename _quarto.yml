@@ -17,6 +17,8 @@ website:
         text: Cytology
       - href: cpc.qmd
         text: CPC
+      - href: dpViewer.qmd
+        text: PathologyViewers
 
 format:
   html:
