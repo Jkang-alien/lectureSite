@@ -3,4 +3,4 @@ title: "Clinical Cases Lecture"
 editor: visual
 ---
 
-[Pahotlogy](https://tubular-crostata-478e7a.netlify.app/resources/obyCase.html)
+[Pahotlogy](https://tubular-crostata-478e7a.netlify.app/resources/obyCase.pdf)
