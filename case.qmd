@@ -3,4 +3,6 @@ title: "Clinical Cases Lecture"
 editor: visual
 ---
 
-[Pahotlogy](https://tubular-crostata-478e7a.netlify.app/resources/obyCase.pdf)
+[PahotlogyOby](https://tubular-crostata-478e7a.netlify.app/resources/obyCase.pdf)  
+
+[PahotlogyBreast](https://tubular-crostata-478e7a.netlify.app/resources/breastCase.pdf)
